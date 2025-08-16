@@ -14,23 +14,9 @@
 
 \`\`\`bash
 # 克隆项目
-git clone https://github.com/你的用户名/stock-picker-agent.git
+git clone https://github.com/AlphaBERTOptimus/stock-picker-agent.git
 cd stock-picker-agent
 
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run dev
-\`\`\`
-
-## 💬 使用示例
-
-- **中文**："帮我找P/E < 20且ROE > 15%的价值股"
-- **English**："Find tech stocks with RSI oversold and MACD bullish"
-- **混合**："推荐适合swing trade的科技股with high volume"
-
-## 🛠️ 技术栈
 
 - React 18
 - Tailwind CSS
